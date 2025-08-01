@@ -28,5 +28,4 @@ This project evaluates three different **prompt types** — Direct, Conversation
 
 ---
 
-jupyter notebook notebook/Prompt_Evaluation.ipynb
-
+🔗 **Interactive Graphs**: [Click here to explore](https://chitranpande.github.io/prompt-evaluation-b2c-travel/)
